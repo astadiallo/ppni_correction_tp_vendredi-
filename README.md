@@ -3,7 +3,7 @@
 # Je m'appelles ASTA
 # Je souhaites entreprendre une formation dans le marketing digital ou le graphisme.
 ## Je suis stagiaire en PPNI  au sein du centre ESRP Auxilia 
-# le programme PPNI 2026. c'est un parcours préparatoire qui vise à accompagner ls apprenantsdans la consolidaion de l eur projet professionneldans les métiers du numérique.
+# le programme PPNI 2026. c'est un parcours préparatoire qui vise à accompagner ls apprenantsdans la consolidaion de leur projet professionneldans les métiers du numérique.
 # j'ai appris à crée UN COMPTE DISCORD, un compte GIT UP 
 ## J'aime marcher, méditer, cuisiner. 
 
