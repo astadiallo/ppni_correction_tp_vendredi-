@@ -1,5 +1,5 @@
 # ppni_correction_tp_vendredi-
-## correction du TP su rle premier dépôt distant des PPNI 2026
+## correction du TP sur le premier dépôt distant des PPNI 2026
 # JE m'appelles ASTA
 # Je souhaites entreprendre une formation dans le marketing digital ou le graphisme.
 ## Qui suis-je ?  Je suis stagiaire en PPNI  au sein du centre ESRP Auxilia 
